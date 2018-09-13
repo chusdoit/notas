@@ -23,4 +23,26 @@ nombre de la base de datos: notas
 usuario de la base de datos: notas
 contraseña de la base de datos: notas
 
+************************************
+Rol administrador
+Usuario: 55555555
+Contraseña: 1234
+
+************************************
+Rol profesor
+Usuario: 11111111
+Contraseña: 1234
+
+************************************
+Rol Jefe de Estudios
+Usuario: 44444444
+Contraseña: 1234
+
+************************************
+Rol Jefe de Departamento
+Usuario: 33333333
+Contraseña: 1234
+
+
+
 
